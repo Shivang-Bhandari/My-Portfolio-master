@@ -5,6 +5,9 @@ body{
   background-color: #F5F5F5;
 }
 
+a:hover {
+  color: red;
+}
 .text-muted{
     color: #BCBBBB;
 }
@@ -19,6 +22,7 @@ body{
 
 .title-logo{
     margin-top: 30px;
+    max-width: 10% !important;
 }
 hr{
   border:1px;
@@ -32,4 +36,8 @@ hr{
 }
 .title-featured{
   margin-top: 40px;
+}
+
+#ninja {
+  font-family: 'Shadows Into Light', cursive;
 }
