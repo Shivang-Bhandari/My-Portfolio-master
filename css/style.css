@@ -8,6 +8,7 @@ body{
 a:hover {
   color: red;
 }
+
 .text-muted{
     color: #BCBBBB;
 }
@@ -25,7 +26,7 @@ a:hover {
     max-width: 10% !important;
 }
 hr{
-  border:1px;
+  border: 1px;
   height: 4px;
   border-radius: 7px;
   background-color:#BCBBBB;
